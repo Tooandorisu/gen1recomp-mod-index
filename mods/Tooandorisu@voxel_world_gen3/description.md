@@ -10,7 +10,7 @@ Download the latest release from GitHub and install it through the Gen1Recomp mo
 
 Source Code 
 
-https://github.com/Tooandorisu/Voxel-World
+https://github.com/Tooandorisu/Voxel-Diorama
 
 Credits 
 
